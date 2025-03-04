@@ -1,3 +1,7 @@
+---
+date: 2025-03-04
+---
+
 # Starting to blog 
 
 with `mk-docs` on `Github` in english...

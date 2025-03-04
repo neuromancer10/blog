@@ -20,3 +20,4 @@ Writing about progress and projects hopefully will help with two other things be
 
 - Starting new projects that have potential
 - Finishing projects 
+

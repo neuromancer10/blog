@@ -23,7 +23,6 @@ theme:
    
 
 plugins:
-  - glightbox
   - blog
 
 markdown_extensions:

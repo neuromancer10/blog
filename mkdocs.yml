@@ -1,5 +1,6 @@
 site_name: neuros-blog
 site_url: https://neuromancer10.github.io/blog
+repo_url: https://github.com/neuromancer10/blog
 theme:
   name: material
   palette: 
@@ -20,11 +21,13 @@ theme:
 
   features:
     - navigation.indexes
+    - content.footnote.tooltips
    
 
 plugins:
   - blog
   - glightbox
+  - search
 
 markdown_extensions:
   - pymdownx.superfences:

@@ -6,40 +6,25 @@ theme:
     
     # Palette toggle for light mode
     - scheme: default
-      primary: deep orange
+      primary: grey
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: deep orange
+      primary: black
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
 
   features:
     - navigation.indexes
-    - navigation.instant
-    - navigation.footer
-    - search.suggest
-    - search.highlight
-    - search.share
-    - navigation.sections
-    - navigation.tabs
-    # - navigation.tabs.sticky
-    - navigation.top
-    - toc.follow
-
-extra:
-  social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/semaino-technologies-gmbh
-      
-copyright: Copyright &copy; 2025-2030 semaino Technologies GmbH
+   
 
 plugins:
   - glightbox
+  - blog
 
 markdown_extensions:
   - pymdownx.superfences:
@@ -95,14 +80,6 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-nav:
-  - Home: index.md
-  - Roadmap 2025: roadmap2025.md
-  - Brainstorming:
-    - Klassifikationsmapping:
-      - Anforderung: brainstorming/classmapping_reqs.md
-      - KSS für Klassifikation: brainstorming/classmapping.md
-      - Features / Use Cases: brainstorming/features_and_use_cases.md
 
   
 

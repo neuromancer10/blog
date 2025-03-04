@@ -18,3 +18,7 @@ I used a few things on this little journey and I will try to show all of them. L
 
 [^1]: Yes, I am working on windows most of time and I am ashamed of it
 
+### MkDocs
+
+Mkocs is a ´Static Site Generator´ that entirly based around markdown files. Since I am more of a developer than a designer, that was exactly what I was looking for. I do know markdown and have used it quite a bit in the past.
+With ˋMkDocsˋ I not only found a site generator that uses markdown but also a tool that is really easy to configure and fast to setup.  

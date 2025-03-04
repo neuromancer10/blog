@@ -1,7 +1,3 @@
----
-date: 2025-03-04
----
-
 # Starting to blog 
 
 with `mk-docs` on `Github` in english...
@@ -21,3 +17,4 @@ Writing about progress and projects hopefully will help with two other things be
 - Starting new projects that have potential
 - Finishing projects 
 
+And, rest assured, if you are reading this then I already have succeded in at least setting this up.

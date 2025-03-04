@@ -1,6 +1,7 @@
 site_name: neuros-blog
 site_url: https://neuromancer10.github.io/blog
 repo_url: https://github.com/neuromancer10/blog
+repo_name: Blog
 theme:
   name: material
   palette: 
